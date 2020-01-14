@@ -1,6 +1,8 @@
 ---
-title
---- 
+title: "install jenkins to aws"
+date: 2020-01-13 10:26:28 +0900
+categories: devOps
+---
 
 ### AWS jenkins install tutorial 
 
