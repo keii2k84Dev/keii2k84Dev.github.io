@@ -8,8 +8,7 @@ categories: devOps
 
 #### Spec 
 AMI:            Amazon Linux 2 AMI (HVM), SSD Volume Type
-
-instanceType:   t2.medium
+![image](https://user-images.githubusercontent.com/32765822/72327382-5093b900-36f4-11ea-8611-ed81da5bc4fd.png?s=100)
 
 ### Install Jenkins 
 ---
