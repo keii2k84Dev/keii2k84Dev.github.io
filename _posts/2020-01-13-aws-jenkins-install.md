@@ -1,5 +1,5 @@
 ---
-title: "AWS에jenkins설치하기 AMI:Amazon Linux 2"
+title: "AWS에 jenkins설치하기 AMI:Amazon Linux 2"
 date: 2020-01-13 10:26:28 +0900
 categories: devOps
 ---
