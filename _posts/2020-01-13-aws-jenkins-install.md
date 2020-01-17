@@ -4,7 +4,7 @@ date: 2020-01-13 10:26:28 +0900
 categories: devOps
 ---
 
-기존 AMI1에 jenkins 설치하는 케이스는 있는데 jenkins에서 도커를 사용하기 위해서는 AMI으로는 제약이 있는거 같아 
+기존 AMI1에 jenkins 설치하는 블로그는 있는데 jenkins에서 도커를 사용하기 위해서는 AMI1으로는 제약이 있는거 같아 
 AMI2에 인스톨하는 방법을 정리하였습니다. 
 
 ### AWS jenkins install tutorial (AMI:Amazon Linux 2)
