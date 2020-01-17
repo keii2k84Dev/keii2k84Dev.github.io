@@ -56,4 +56,17 @@ sudo vim /etc/nginx/nginx.conf
         }
 ```
 
+#### set run nginx when boot system 
+
+generate shell file in `/etc/profile.d/`
+```
+[ec2-user@ip-172-31-18-35 profile.d]$ cat nginx.sh
+# Initialization script for bash and sh
+
+# excute nginx
+sudo service nginx start
+[ec2-user@ip-172-31-18-35 profile.d]$
+```
+
+
 
