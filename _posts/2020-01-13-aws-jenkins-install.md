@@ -11,6 +11,7 @@ AMI2에 인스톨하는 방법을 정리하였습니다.
 
 #### EC2 사양 
 AMI: Amazon Linux 2 AMI (HVM), SSD Volume Type
+
 instance: t3.midium
 
 ### Jenkins 설치하기
